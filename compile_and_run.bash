@@ -1,2 +1,2 @@
 #!/bin/bash
-make -j && ./build/app
+make -j && ./build/app.out
